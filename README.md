@@ -6,10 +6,6 @@
 
 <div align="justify">
 This practical work was developed in an academic context, in the curricular unit of “Intelligent Analysis in BigData Systems”, of the Master´s degree in Bioinformatics, and the main objetive was to understand whether the number of consultations given in primary health care has a direct impact on the number of hospitalizations, providing important insights into the functioning of the Portuguese healthcare system.
-</div>
-
-
-<div align="justify">
 
 **Workflow**
 
