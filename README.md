@@ -1,6 +1,6 @@
 # Primary-Health-Care-Appointments-and-Hospital-Stay-An-Impact-Analysis
 
-**Grupo composto por:**
+**Work developed by:**
 - [Joana Lopes](https://github.com/joanalopes0711) (pg53498)
 - [Tiago Miranda](https://github.com/tiagomiranda24) (pg54437)
 
