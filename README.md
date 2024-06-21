@@ -10,6 +10,7 @@ This practical work was developed in an academic context, in the curricular unit
 
 
 <div align="justify">
+
 **Workflow**
 
 This work followed ETL (Extract-Transform-Load) principles. First of all we extract two datasets to make this analysis.Both datasets were extracted directly from reliable sources, namely certified websites such as the Portuguese Public Administration's open data portal (dados.gov) and 
